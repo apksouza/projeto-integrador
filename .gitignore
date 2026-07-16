@@ -1,3 +1,11 @@
 node_modules/
 .env
 *.log
+# Banco SQLite
+*.sqlite
+
+# Dependências
+node_modules/
+
+# Arquivos temporários
+.env
