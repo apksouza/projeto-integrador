@@ -97,15 +97,17 @@ ProjetoIntegrador/
 │   ├── package.json
 │   └── estoque.sqlite
 │
-├── frontend/
-│
-│   ├── src/
-│   │
+frontend/
+├── public/
+├── src/
 │   ├── components/
 │   ├── pages/
 │   ├── services/
 │   ├── App.js
-│   └── App.css
+│   ├── App.css
+│   └── index.js
+├── package.json
+└── package-lock.json
 │
 └── README.md
 ```
