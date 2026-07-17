@@ -6,6 +6,24 @@ Este projeto consiste em uma aplicação **Full Stack** para gerenciamento de es
 
 ---
 
+# 🌐 Ambiente Online para Avaliação
+
+Para facilitar a correção da atividade, foi disponibilizada uma versão totalmente funcional da aplicação hospedada em um servidor VPS.
+
+### Aplicação Online
+
+**https://incurta.com/gran-faculdade/**
+
+Durante todo o período de correção da atividade, a aplicação permanecerá disponível para acesso, permitindo que todas as funcionalidades possam ser avaliadas diretamente pelo navegador, sem necessidade de instalação local.
+
+Caso o navegador apresente alguma solicitação de permissão relacionada ao acesso ao site (como atualização de conteúdo, certificado, cache ou permissões do navegador), ela poderá ser aceita normalmente para prosseguir com a avaliação.
+
+O ambiente online possui exatamente as mesmas funcionalidades presentes nesta versão do projeto disponibilizada no GitHub.
+
+> **Importante:** Após o encerramento do período de avaliação da disciplina, esta aplicação será removida do servidor para evitar consumo desnecessário de recursos da VPS utilizada exclusivamente para demonstração do projeto.
+
+---
+
 # 👨‍🎓 Autor
 
 **Alecio Pereira de Souza**
