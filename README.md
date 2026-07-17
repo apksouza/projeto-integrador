@@ -208,8 +208,8 @@ O frontend foi desenvolvido em React utilizando uma interface moderna composta p
 
 É necessário possuir instalado:
 
-- Node.js
-- npm
+- Node.js 18 ou superior
+- npm 9 ou superior
 - Git
 - Visual Studio Code
 
