@@ -59,7 +59,8 @@ Desenvolver um sistema completo de controle de estoque capaz de:
 
 ## Backend
 
-- Node.js
+- Node.js 18 ou superior
+- npm 9 ou superior
 - Express.js
 - SQLite
 - CORS
@@ -85,15 +86,17 @@ Desenvolver um sistema completo de controle de estoque capaz de:
 ProjetoIntegrador/
 
 │
-├── backend/
-│
-│   ├── controllers/
-│   ├── database/
-│   ├── models/
-│   ├── routes/
-│   ├── app.js
-│   ├── package.json
+backend/
+├── controllers/
+├── database/
+│   ├── conexao.js
+│   ├── tabelas.js
+│   ├── seed.js
 │   └── estoque.sqlite
+├── models/
+├── routes/
+├── app.js
+└── package.json
 │
 frontend/
 ├── public/
@@ -273,13 +276,12 @@ http://localhost:3000
 
 # Frontend
 
-Abrir um novo terminal.
+Abra um novo terminal na pasta raiz do projeto.
 
-Entrar na pasta:
+Entre na pasta do frontend:
 
 ```bash
 cd frontend
-```
 
 Instalar dependências:
 
